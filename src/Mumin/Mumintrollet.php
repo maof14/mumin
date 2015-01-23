@@ -19,4 +19,9 @@ class Mumintrollet
     {
         return "My Name is Mumintrollet.";
     }
+	
+	public function getNotName() 
+	{
+		return "My name is not My";
+	}
 }
